@@ -3,14 +3,14 @@
 <br><br>
 <pre>
     💼 Back-end dev
-    💻 Golang, PHP, Java
+    💻 Golang • PHP • Java
+    📖 Design patterns • Algorithms
     🎮 Music • Games • Books • Code 
 </pre>
 <br><br>
 <img src="https://github.com/llerabietech/llerabietech/blob/main/assets/black-cat.gif" height="60" />
 <br><br><br>
-  
-[![](https://img.shields.io/badge/linkedin-grey)](http://linkedin.com/)
+
 [![](https://img.shields.io/badge/habr-8A2BE2)](https://career.habr.com/llerabie)
 [![](https://img.shields.io/badge/telegram-blue)](https://telegram.me/llerabie)
 </div>
