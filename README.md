@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     💼 Back-end dev
-    💻 Golang • PHP • Java
+    💻 Golang • PHP • Python
     📖 Design patterns • Algorithms
     🎮 Music • Games • Books • Code 
 </pre>
