@@ -5,7 +5,7 @@
     💼 Back-end dev
     💻 Golang • PHP • Python
     📖 Design patterns • Algorithms
-    🎮 Music • Games • Books • Code 
+    🎮 Music • Sport • Books • Code 
 </pre>
 <br><br>
 <img src="https://github.com/llerabietech/llerabietech/blob/main/assets/black-cat.gif" height="60" />
